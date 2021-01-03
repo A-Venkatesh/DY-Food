@@ -1,0 +1,26 @@
+{
+  "packageId": "xyz.appmaker.dwugzz",
+  "host": "deliveryyaar.in",
+  "name": "DelivaryYaar",
+  "launcherName": "DelivaryYaar",
+  "display": "standalone",
+  "themeColor": "#FFFFFF",
+  "navigationColor": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://deliveryyaar.in/assets/img/favicons/favicon-96x96.png",
+  "maskableIconUrl": "https://deliveryyaar.in/assets/img/favicons/favicon-96x96.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "NEW APP",
+  "webManifestUrl": "https://deliveryyaar.in/manifest.json",
+  "fallbackType": "customtabs",
+  "appVersion": "1"
+}
